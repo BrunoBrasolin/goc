@@ -1,3 +1,6 @@
+# Function get id, title, attributes and categories from Woocommerce - Wordpress
+
+```php
 <?php
 function getProdutosAvalible()
 {
@@ -11,9 +14,7 @@ function getProdutosAvalible()
     if ($product->is_visible()) {
       if ($product->is_in_stock()) {
         $attributes = array(
-          'ano' => $product->get_attribute('pa_ano'),
-          'modelo' => $product->get_attribute('pa_modelo'),
-          'montadora' => $product->get_attribute('pa_montadora')
+          'ano' => $product->get_attribute('pa_ano') // Crie um array para cada atributo que deseja selecionar
         );
         $json_data[] = array(
           'id' => $product->get_id(),
@@ -24,5 +25,6 @@ function getProdutosAvalible()
       }
     }
   }
-  $output = json_encode($json_data);
+  $output = json_encode($json_data); // Transforme em JSON para facilitar o front-end
 }
+```
