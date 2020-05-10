@@ -1,11 +1,11 @@
 # Ajax
 
 _xhr.readyState_ existem 5 estados de requisições:
-**0**: Requisição ainda não iniciada;
-**1**: Conexão com o servidor estabelecida;
-**2**: Requisição recebida;
-**3**: Processando requisição;
-**4**: Requisição concluída e resposta pronta;
+**0.**: Requisição ainda não iniciada;
+**1.**: Conexão com o servidor estabelecida;
+**2.**: Requisição recebida;
+**3.**: Processando requisição;
+**4.**: Requisição concluída e resposta pronta;
 
 ```javascript
 let xhr = new XMLHttpRequest(); // Instancia o XMLHttpRequest
