@@ -5,5 +5,12 @@
 ---
 
 ### Categorias
+
 * [JavaScript](#JavaScript)
 * [WordPress](#WordPress)
+
+---
+### [JavaScript](javascript/)
+
+- [Ajax](javascript/ajax.md)
+- [Proxy](javascript/padroes-de-projeto/proxy.md)
