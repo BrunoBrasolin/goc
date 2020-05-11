@@ -1,14 +1,14 @@
 # Library
 
-## Este é um simples projeto para que sirva de consulta.
+## Este é um simples projeto para que sirva de consulta
 
 ---
 
 ### Categorias
 
-- [Engenharia de Software](engenharia-de-software/)
-- [JavaScript](javascript/)
-- [WordPress](wordpress/)
+- [Engenharia de Software](#engenharia-de-software)
+- [JavaScript](#javascript)
+- [WordPress](#wordpress)
 
 ---
 
@@ -20,8 +20,8 @@
 
 ### [JavaScript](javascript/)
 
-- [Promise e Proxy](javascript/padroes-de-projeto/proxy.md)
-- [Http Request com Promise](javascript/padroes-de-projeto/proxy.md)
+- [Promise e Proxy](javascript/promise-proxy.md)
+- [Http Request com Promise](javascript/http-request-promise.md)
 
 ---
 
