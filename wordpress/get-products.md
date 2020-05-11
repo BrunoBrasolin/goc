@@ -1,4 +1,10 @@
-# Function get id, title, attributes and categories from Woocommerce - Wordpress
+# get-products
+
+## Função para pegar id, title, attributes e categories - Woocommerce, Wordpress
+
+---
+
+## **_Exemplo_**
 
 ```php
 <?php

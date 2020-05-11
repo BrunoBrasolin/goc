@@ -1,1 +1,0 @@
-// Quando o código tem muita identação, afetando sua legibilidade
