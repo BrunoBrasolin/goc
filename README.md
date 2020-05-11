@@ -27,4 +27,4 @@
 
 ### WordPress
 
-- [Função para pegar id, title, attributes e categories - Woocommerce, Wordpress](wordpress/get-products-id-title-attributes.md)
+- [Função para pegar id, title, attributes e categories - Woocommerce, Wordpress](wordpress/get-products.md)
