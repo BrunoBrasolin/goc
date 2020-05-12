@@ -1,27 +1,29 @@
-# Library
+# til
 
-## Este é um simples projeto para que sirva de consulta
+## today i learned
+
+Simple project to write-up small and big things that I learn day to day in my career
 
 ---
 
-### Categorias
+### Categories
 
-- [Engenharia de Software](#engenharia-de-software)
+- [Collage](#collage)
 - [JavaScript](#javascript)
 - [WordPress](#wordpress)
 
 ---
 
-### Engenharia de Software
+### Collage
 
-- [Requisitos Funcionais e Não funcionais](engenharia-de-software/requisitos.md)
+- [Requisitos Funcionais e Não funcionais](collage/requisitos.md)
 
 ---
 
 ### JavaScript
 
-- [Promise e Proxy](javascript/promise-proxy.md)
-- [Http Request com Promise](javascript/http-request-promise.md)
+- [Promise and Proxy](javascript/promise-proxy.md)
+- [Http Request with Promise](javascript/http-request-promise.md)
 
 ---
 
