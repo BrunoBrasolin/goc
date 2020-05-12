@@ -1,8 +1,6 @@
-# til
+# today i learned
 
-## today i learned
-
-Simple project to write-up small and big things that I learn day to day in my career
+## Simple project to write-up small and big things that I learn day to day in my career
 
 ---
 
