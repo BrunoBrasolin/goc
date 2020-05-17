@@ -12,9 +12,19 @@
 
 ---
 
-### Collage
+### Concepts
 
-- [Requisitos Funcionais e Não funcionais](collage/requisitos.md)
+- [API](concepts/api.md)
+- [Backend](concepts/backend.md)
+- [HTTP Methods and Parameters](concepts/http-methods-parameters.md)
+- [Requisitos](concepts/requisitos.md)
+- [SPA](concepts/spa.md)
+
+---
+
+### Database
+
+- [Definition](database/definition.md)
 
 ---
 
