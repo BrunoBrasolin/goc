@@ -6,7 +6,7 @@
 
 ### Categories
 
-- [Collage](#collage)
+- [Concepts](#concepts)
 - [JavaScript](#javascript)
 - [WordPress](#wordpress)
 
