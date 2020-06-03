@@ -33,16 +33,20 @@
 - [Promise and Proxy](javascript/promise-proxy.md)
 - [Http Request with Promise](javascript/http-request-promise.md)
 
-#### React
+---
 
-- [Component](javascript/react/componente.md)
-- [Estado](javascript/react/estado.md)
-- [JSX](javascript/react/jsx.md)
-- [Propriedade](javascript/react/propriedade.md)
+### React
+
+- [Component](react/componente.md)
+- [Estado](react/estado.md)
+- [JSX](react/jsx.md)
+- [Propriedade](react/propriedade.md)
   
-#### React Native
+---
 
-- [Componentes](javascript/react-native/elementos.md)
+### React Native
+
+- [Componentes](react-native/elementos.md)
 
 ---
 
