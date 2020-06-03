@@ -7,7 +7,11 @@
 ### Categories
 
 - [Concepts](#concepts)
+- [Database](#database)
 - [JavaScript](#javascript)
+- [React](#react)
+- [React Native](#react-native)
+- [TypeScript](#typescript)
 - [WordPress](#wordpress)
 
 ---
