@@ -6,13 +6,16 @@
 
 ### Categories
 
-- [Concepts](#concepts)
-- [Database](#database)
-- [JavaScript](#javascript)
-- [React](#react)
-- [React Native](#react-native)
-- [TypeScript](#typescript)
-- [WordPress](#wordpress)
+- [today i learned](#today-i-learned)
+  - [Simple project to write-up small and big things that I learn day to day in my career](#simple-project-to-write-up-small-and-big-things-that-i-learn-day-to-day-in-my-career)
+    - [Categories](#categories)
+    - [Concepts](#concepts)
+    - [Database](#database)
+    - [JavaScript](#javascript)
+    - [React](#react)
+    - [React Native](#react-native)
+    - [TypeScript](#typescript)
+    - [WordPress](#wordpress)
 
 ---
 
@@ -45,7 +48,7 @@
 - [Estado](react/estado.md)
 - [JSX](react/jsx.md)
 - [Propriedade](react/propriedade.md)
-  
+
 ---
 
 ### React Native
@@ -63,4 +66,7 @@
 
 ### WordPress
 
+- [Function disable payment method if certain shipping method](wordpress/disable-payment-method.md)
 - [Função para pegar id, title, attributes e categories - Woocommerce, Wordpress](wordpress/get-products.md)
+- [Shipping Function in WooCommerce](wordpress/shipping-function-woocommerce.md)
+- [Add cart weight from costumer to e-mail](wordpress/weight-email.md)
