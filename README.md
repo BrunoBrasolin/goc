@@ -49,6 +49,7 @@
 ### TypeScript
 
 - [Basics Concepts](typescript/basics-concept.md)
+- [Creating React app with TypeScript template](typescript/create-react-app-template.md)
 
 ---
 
