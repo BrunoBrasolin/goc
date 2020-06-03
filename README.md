@@ -46,6 +46,12 @@
 
 ---
 
+### TypeScript
+
+- [Basics Concepts](typescript/basics-concept.md)
+
+---
+
 ### WordPress
 
 - [Função para pegar id, title, attributes e categories - Woocommerce, Wordpress](wordpress/get-products.md)
