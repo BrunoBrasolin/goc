@@ -1,6 +1,8 @@
-# today i learned
+# GOC
 
-## Simple project to write-up small and big things that I learn day to day in my career
+## Gallery of Code
+
+Project made to save all of my codes in one simple place.
 
 ---
 
