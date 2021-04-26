@@ -21,6 +21,12 @@ Project made to save all of my codes in one simple place.
 
 ---
 
+### C
+
+- [Installation](c/Installation.md)
+
+---
+
 ### Concepts
 
 - [API](concepts/api.md)
